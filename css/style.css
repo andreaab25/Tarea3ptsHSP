@@ -1,0 +1,80 @@
+:root{
+	--f7-theme-color:#000;
+	--f7-navbar-bg-color: #2b2b2b; /*navbar*/
+	--f7-navbar-link-color: #000; /*navbar link*/
+	--f7-navbar-text-color:#ffffff;
+	--f7-bars-bg-color:#1f1f1f;/*toolbar*/
+	--f7-tabbar-link-inactive-color: #333; /*link toolbar*/
+	--f7-block-margin-vertical:20px;
+	--f7-card-footer-border-color:transparent; 
+	--f7-page-bg-color: #0a0a0a;
+	--f7-card-bg-color: #1e1e1e;
+
+}
+
+.img-fluid{
+	max-width: 100%;
+}
+
+h1,h2,h3,h4,h5,h6,p{
+	margin: 5px 0;
+}
+#zorro-2{
+	color: #ffffff;
+}
+.zorro-1 {
+	display: flex;
+	gap: 10px;
+	justify-content: center;
+	align-items: center;
+	margin-top: 20px;
+  }
+  .zorro-1 {
+	display: flex;
+	align-items: center;
+	gap: 8px;
+	padding: 10px 20px;
+	border-radius: 20px;
+	font-size: 16px;
+	font-weight: lighter;
+	color: white;
+
+  }
+  .fondo-rojo {
+	background-color: #e74c3c;
+  }
+  .fondo-negro {
+	background-color: #1e1e1e;
+  }
+  .zorro-1 img {
+	width: 24px;
+	height: 24px;
+	border-radius: 5px;
+  }
+  .vender{
+	width: 100%;
+	height: auto;
+  }
+  .card{
+	border-radius: 25px;
+  }
+  .titulos{
+	text-align: center;
+	color: #ffffff;
+	font-size: medium;
+  }
+  .texto{
+	text-align: center;
+	color: white;
+	font-weight: lighter;
+  }
+  .dinero{
+	color: rgb(255, 0, 0);
+  }
+  .pollo{
+	align-items: center;
+	justify-content: center;
+	align-items: center;
+	color: white;
+  }
+  
